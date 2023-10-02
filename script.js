@@ -1,4 +1,4 @@
-function clickOnButton() {
+function clickOnAddButton() {
   const li = document.createElement("li");
   const inputValue = document.getElementById("input").value;
   const t = document.createTextNode(inputValue);
